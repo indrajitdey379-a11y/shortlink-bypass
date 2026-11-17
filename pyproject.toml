@@ -40,5 +40,5 @@ shortlink-bypass = "shortlink_bypass.bypass:main"
 [tool.setuptools.packages.find]
 include = ["shortlink_bypass*"]
 
-[tool.setuptools.package_data]
+[tool.setuptools.package-data]
 shortlink_bypass = ["*.txt"]
